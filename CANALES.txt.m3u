@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 2" tvg-logo="https://static.epg.best/sv/Canal2Nacional.sv.png"
 http://speedwk.site:8880/prueba589/LkxmmUpdv2P6/24744
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1280px-Canal_4_TCS.png" 
+http://speedwk.site:8880/prueba589/LkxmmUpdv2P6/24747
