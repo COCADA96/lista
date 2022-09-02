@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2" tvg-logo="https://static.epg.best/sv/Canal2Nacional.sv.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 2
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2" tvg-logo="https://static.epg.best/sv/Canal2Nacional.sv.png" group-title="CANAL 2",EL SALVADOR | 
 http://speedwk.site:8880/prueba589/LkxmmUpdv2P6/24744
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="https://static.epg.best/sv/Canal4Nacional.sv.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 4
-http://speedwk.site:8880/prueba589/LkxmmUpdv2P6/24747
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://static.epg.best/sv/Canal6Nacional.sv.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 6
-http://speedwk.site:8880/prueba589/LkxmmUpdv2P6/24748
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 10" tvg-logo="https://static.epg.best/sv/Canal10Nacional.sv.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 10
-http://speedwk.site:8880/prueba589/LkxmmUpdv2P6/24751
